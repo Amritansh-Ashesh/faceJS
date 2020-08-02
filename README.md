@@ -1,2 +1,2 @@
 # faceJS
-Face Recognition App using Create-react-app
+Face Recognition App using ReactJS, PostgreSQL, Postman, Clarifai API
